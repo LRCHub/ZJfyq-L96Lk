@@ -1,0 +1,54 @@
+# キャロル＆チューズデイ(Vo.Nai Br.XX＆Celeina Ann) – The Loneliest Girl
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.58] It's a little cold in paradise tonight
+[00:24.06] Love faded
+[00:26.15] I'm finding new forms, I write it out
+[00:32.33] It's fine for now
+[00:35.44] Then you come along and I cry
+[00:41.50] Liberated
+[00:43.58] I'm seeing clearly now, there's no turning back
+[00:49.14] And I'm overwhelmed
+[00:58.64] 
+[00:52.79] Do you really want to set the night on fire?
+[00:58.03] You're my only way out
+[01:01.08] Do you really want to turn your life around again?
+[01:06.61] You know you're my last chance
+[01:21.61] 
+[01:09.76] Can you feel my...
+[01:11.95] Can you feel my...
+[01:14.16] Can you feel my tears? They won't dry
+[01:18.33] Can you feel my...
+[01:20.55] Can you feel my teardrops of the loneliest girl?
+[01:27.03] The loneliest girl
+[01:36.03] 
+[01:33.52] Can you only love with broken heart?
+[01:37.74] In the cold rain
+[01:40.80] I'm giving it a try, I let it fly
+[01:45.70] You can count me in
+[01:48.81] So when the night falls I'll be on your side
+[01:54.42] These eyes don't lie
+[01:56.93] 'Cause my defeated heart's
+[01:59.29] Got nothing to hide
+[02:01.78] It's my only vice
+[02:10.28] 
+[02:05.27] Can you feel my...
+[02:07.25] Can you feel my...
+[02:09.10] Can you feel my tears? They won't dry
+[02:13.14] Can you feel my...
+[02:15.24] Can you feel my...
+[02:16.86] Can you feel my tears? They won't dry
+[02:21.29] Can you feel my...
+[02:23.18] Can you feel my...
+[02:25.10] Can you feel my tears? They won't dry
+[02:28.99] Can you feel my...
+[02:31.17] Can you feel my teardrops of the loneliest girl?
+[02:37.54] The loneliest girl
+[02:46.54] 
+[02:42.89] Keep it, keep it close to your heart
+[02:48.29] And it won't go
+[02:51.63] Keep it, keep it close
+[02:54.00] And then you'll start to grow
+```
