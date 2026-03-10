@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Loneliest Girl",
+  "base_artist": "キャロル＆チューズデイ(Vo.Nai Br.XX＆Celeina Ann)",
+  "createdAt": "2026-03-10T16:08:54.001013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "Princess Chelsea",
+      "has_synced": true,
+      "path": "select/01_The_Loneliest_Girl_Princess_Chelsea.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)",
+      "has_synced": true,
+      "path": "select/02_The_Loneliest_Girl_キャロル&チューズデイ(Vo.Nai_Br.XX&Celeina_Ann).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Loneliest Girl (From \"Carole & Tuesday\")",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/03_The_Loneliest_Girl_(From__Carole_&_Tuesday_)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "CAROLE & TUESDAY (Vo.Nai Br.XX & Celeina Ann)",
+      "has_synced": true,
+      "path": "select/04_The_Loneliest_Girl_CAROLE_&_TUESDAY_(Vo.Nai_Br.XX_&_Celeina_Ann).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "CAROLE & TUESDAY",
+      "has_synced": true,
+      "path": "select/05_The_Loneliest_Girl_CAROLE_&_TUESDAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)",
+      "has_synced": true,
+      "path": "select/06_The_Loneliest_Girl_キャロル&チューズデイ(Vo.Nai_Br.XX&Celeina_Ann).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Loneliest Girl",
+      "artist": "Nai Br.XX & Celeina Ann",
+      "has_synced": true,
+      "path": "select/07_The_Loneliest_Girl_Nai_Br.XX_&_Celeina_Ann.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Per Gessle Talks P-UD! - The Loneliest Girl In The World",
+      "artist": "PG Roxette",
+      "has_synced": true,
+      "path": "select/08_Per_Gessle_Talks_P-UD!_-_The_Loneliest_Girl_In_The_World_PG_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Per Gessle Talks P-UD! - The Loneliest Girl In The World",
+      "artist": "PG Roxette/Roxette/Per Gessle",
+      "has_synced": true,
+      "path": "select/09_Per_Gessle_Talks_P-UD!_-_The_Loneliest_Girl_In_The_World_PG_Roxette_Roxette_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Loneliest Girl In The World",
+      "artist": "PG Roxette/Roxette/Per Gessle",
+      "has_synced": true,
+      "path": "select/10_The_Loneliest_Girl_In_The_World_PG_Roxette_Roxette_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Loneliest Girl In The World",
+      "artist": "PG Roxette",
+      "has_synced": true,
+      "path": "select/11_The_Loneliest_Girl_In_The_World_PG_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Loneliest Girl in the World (live)",
+      "artist": "Milow",
+      "has_synced": true,
+      "path": "select/12_The_Loneliest_Girl_in_the_World_(live)_Milow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Loneliest Girl in the World",
+      "artist": "Milow",
+      "has_synced": true,
+      "path": "select/13_The_Loneliest_Girl_in_the_World_Milow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Per Gessle Talks P‐UD! - The Loneliest Girl In The World",
+      "artist": "Per Gessle",
+      "has_synced": true,
+      "path": "select/14_Per_Gessle_Talks_P‐UD!_-_The_Loneliest_Girl_In_The_World_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Loneliest Girl in the World",
+      "artist": "PG Roxette & Per Gessle",
+      "has_synced": true,
+      "path": "select/15_The_Loneliest_Girl_in_the_World_PG_Roxette_&_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Loneliest Girl in the World",
+      "artist": "PG Roxette, Roxette, Per Gessle",
+      "has_synced": true,
+      "path": "select/16_The_Loneliest_Girl_in_the_World_PG_Roxette,_Roxette,_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Loneliest Girl in the World",
+      "artist": "PG Roxette, Roxette, Gessle, Per",
+      "has_synced": true,
+      "path": "select/17_The_Loneliest_Girl_in_the_World_PG_Roxette,_Roxette,_Gessle,_Per.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Loneliest Girl",
+      "artist": "キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)",
+      "has_synced": false,
+      "path": "select/pl_01_The_Loneliest_Girl_キャロル&チューズデイ(Vo.Nai_Br.XX&Celeina_Ann).txt"
+    }
+  ]
+}
